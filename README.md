@@ -1,5 +1,9 @@
 # HearMeeeeeee12345
 
+## Author
+
+**Nikhil Nagaraj**
+
 *Automatically synced with your [v0.app](https://v0.app) deployments*
 
 [![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/nikhil-nagarajs-projects/v0-hear-meeeeeee12345)
